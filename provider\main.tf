@@ -1,1 +1,0 @@
-resource "azurerm_resource_group" "rg" {   name     = "jd-rg"   location = "East US" }
